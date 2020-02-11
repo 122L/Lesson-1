@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MediaLib.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MediaLib.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MediaLib.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Song.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Song.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Song.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="51">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -78,6 +78,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/MediaLib.java" />
         <option value="$PROJECT_DIR$/src/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/Song.java" />
       </list>
     </option>
   </component>
@@ -226,13 +227,6 @@
     <entry file="file://$PROJECT_DIR$/src/ReadMe">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Song.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Movies.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -262,6 +256,13 @@
             <element signature="e#67#68#0" expanded="true" />
             <element signature="e#86#87#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
