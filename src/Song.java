@@ -6,6 +6,7 @@ public class Song {
     public Song() {
         title = "";
         rating = 0;
-        
+
+        Song song1
     }
 }
