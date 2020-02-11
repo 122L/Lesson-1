@@ -6,9 +6,11 @@ public class Song {
     public Song() {
         title = "";
         rating = 0;
-
-        Song song1 = new Song();
-
-        System.out.println(song1);
+    }
+    public String getTitle() {
+        return title;
+    }
+    public String setTitle(String t) {
+        title = t;
     }
 }
