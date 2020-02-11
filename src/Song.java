@@ -10,7 +10,7 @@ public class Song {
     public String getTitle() {
         return title;
     }
-    public String setTitle(String t) {
+    public void setTitle(String t) {
         title = t;
     }
 }

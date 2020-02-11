@@ -5,5 +5,8 @@ public class MediaLib {
         Song song1 = new Song();
 
         System.out.println(song1);
+
+        song1.setTitle("Johnny B. Goode");
+        System.out.println(song1.getTitle());
     }
 }
