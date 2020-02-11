@@ -7,6 +7,8 @@ public class Song {
         title = "";
         rating = 0;
 
-        Song song1
+        Song song1 = new Song();
+
+        System.out.println(song1);
     }
 }
