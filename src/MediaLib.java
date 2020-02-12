@@ -7,10 +7,13 @@ public class MediaLib {
         Movies movie1 = new Movies();
 
         song1.setTitle("Bruh Sound Effect #2");
+        song1.setRating(5);
         System.out.println(song1.getTitle());
+        System.out.println(song1.getRating());
 
         book1.setTitle("Minecraft Survival Handbook");
         System.out.println(book1.getTitle());
+        System.out.println(book1.getRating());
 
         movie1.setTitle("Tropic Thunder");
         System.out.println(movie1.getTitle());

@@ -13,4 +13,10 @@ public class Song {
     public void setTitle(String t) {
         title = t;
     }
+    public int getRating() {
+        return rating;
+    }
+    public void setRating(int r) {
+        rating = r;
+    }
 }
