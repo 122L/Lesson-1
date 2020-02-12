@@ -2,6 +2,7 @@ public class Song {
 
     private String title;
     private int rating;
+    private double price;
 
     public Song() {
         title = "";
