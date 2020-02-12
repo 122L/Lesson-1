@@ -4,8 +4,13 @@ public class Song {
     private int rating;
     private double price;
     private boolean favorite;
+    private int totalCost;
 
-    public Song(String title, double price, int rating) {
+    public Song(String title, int rating) {
+        this.title = title;
+        this.rating = rating;
+    }
+    public Song(String title, int rating, double price) {
         this.title = title;
         this.rating = rating;
         this.price = price;
