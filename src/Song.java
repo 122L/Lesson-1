@@ -5,7 +5,8 @@ public class Song {
     private double price;
     private boolean favorite;
 
-    public Song() {
-        
+    public Song(String title, double price) {
+        this.title = title;
+        this.price = price;
     }
 }
