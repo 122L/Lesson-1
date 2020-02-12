@@ -1,6 +1,7 @@
 public class Movies {
     private String title;
     private int rating;
+    private double price;
 
     public Movies() {
         title = "";
@@ -17,5 +18,11 @@ public class Movies {
     }
     public void setRating(int r) {
         rating = r;
+    }
+    public double getPrice() {
+        return price;
+    }
+    public void setPrice(double p) {
+        price = p;
     }
 }

@@ -20,4 +20,10 @@ public class Song {
     public void setRating(int r) {
         rating = r;
     }
+    public double getPrice() {
+        return price;
+    }
+    public void setPrice(double p) {
+        price = p;
+    }
 }

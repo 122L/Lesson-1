@@ -1,6 +1,7 @@
 public class Books {
     private String title;
     private int rating;
+    private double price;
 
     public Books() {
         title = "";
@@ -17,5 +18,11 @@ public class Books {
     }
     public void setRating(int r) {
         rating = r;
+    }
+    public double getPrice() {
+        return price;
+    }
+    public void setPrice(double p) {
+        price = p;
     }
 }
