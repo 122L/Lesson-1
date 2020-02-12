@@ -12,10 +12,13 @@ public class MediaLib {
         System.out.println(song1.getRating());
 
         book1.setTitle("Minecraft Survival Handbook");
+        book1.setRating(5);
         System.out.println(book1.getTitle());
         System.out.println(book1.getRating());
 
         movie1.setTitle("Tropic Thunder");
+        movie1.setRating(5);
         System.out.println(movie1.getTitle());
+        System.out.println(movie1.getRating());
     }
 }
