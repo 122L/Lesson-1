@@ -1,15 +1,28 @@
 public class MediaLib {
     public static void main(String[] args) {
+
+        double totalCost;
+        int numberOfSongs = 0;
+
         System.out.println("Welcome to your Media Library.");
 
         Song song1 = new Song("Fellas in Paris", 100.00, 5);
+        ++numberOfSongs;
         Song song2 = new Song("Ok and? Didn't ask", 12.00, 5);
+        ++numberOfSongs;
         Song song3 = new Song("Metallica didn't play trapped under ice at the Freeze 'Em All concert", 1.00, 5);
+        ++numberOfSongs;
         Song song4 = new Song("Billie Jean but the main melody never starts", 2.00, 5);
+        ++numberOfSongs;
         Song song5 = new Song("The Fortnite Theme", 13.99, 5);
+        ++numberOfSongs;
         Song song6 = new Song("Music that plays when unfortunate events happen", 1.29, 5);
+        ++numberOfSongs;
         Song song7 = new Song("The Burger King", 8.00, 5);
+        ++numberOfSongs;
+
         Books book1 = new Books();
+        
         Movies movie1 = new Movies();
 
         song1.setTitle("Bruh Sound Effect #2");
