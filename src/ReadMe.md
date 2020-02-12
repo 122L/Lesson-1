@@ -7,3 +7,4 @@
 #Lesson 1 - 1.1.3
 <p>#8 - Create if statements that, based on user inputs, declare the boolean true or false based for the respective song
 <p>#12, 1 - 
+<p>#12, 2 - Because the price of something includes cents

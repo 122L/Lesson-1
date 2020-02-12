@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MediaLib.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MediaLib.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MediaLib.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-48">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -92,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReadMe.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -118,9 +118,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/Books.java" />
         <option value="$PROJECT_DIR$/src/Movies.java" />
-        <option value="$PROJECT_DIR$/src/ReadMe.md" />
         <option value="$PROJECT_DIR$/src/Song.java" />
         <option value="$PROJECT_DIR$/src/MediaLib.java" />
+        <option value="$PROJECT_DIR$/src/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -411,13 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReadMe.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Song.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -464,8 +457,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MediaLib.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
