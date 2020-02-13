@@ -42,10 +42,4 @@ public class Song {
     public void addToFavorites() {
         favorite = true;
     }
-    public int getNumSongs() {
-        return numSongs;
-    }
-    public void setNumSongs(int n) {
-        numSongs = n;
-    }
 }
