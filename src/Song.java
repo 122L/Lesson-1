@@ -5,11 +5,7 @@ public class Song {
     private double price;
     private boolean favorite;
     private int totalCost;
-
-    public Song(String title, int rating) {
-        this.title = title;
-        this.rating = rating;
-    }
+    
     public Song(String title, int rating, double price) {
         this.title = title;
         this.rating = rating;
