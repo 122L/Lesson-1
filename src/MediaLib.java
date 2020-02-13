@@ -6,8 +6,17 @@ public class MediaLib {
 
         System.out.println("Welcome to your Media Library.");
 
+        Song getNumSongs = new Song();
+
         Song song1 = new Song("Fellas in Paris", 5);
+        
+        System.out.println(song1.getTitle() + " " + song1.getPrice() + " " + song1.getPrice());
+        totalCost = song1.getPrice() + totalCost;
+        averageRating = song1.getRating() + averageRating;
+
         Song song2 = new Song("Hello",1.50,7);
+        System.out.println(song2.getTitle() + " " + song2.getPrice() + " " + song2.getPrice());
+        averageRating = (song2.getRating() + averageRating) / getNumSongs.getNumSongs();
 
         Books book1 = new Books();
         Movies movie1 = new Movies();
