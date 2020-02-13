@@ -24,10 +24,8 @@ public class Song {
     public String getTitle() {
         return title;
     }
-    public void setTitle(String t, double p, int r) {
+    public void setTitle(String t) {
         title = t;
-        price = p;
-        rating = r;
     }
     public int getRating() {
         return rating;
@@ -43,5 +41,11 @@ public class Song {
     }
     public void addToFavorites() {
         favorite = true;
+    }
+    public int getNumSongs() {
+        return numSongs;
+    }
+    public void setNumSongs(int n) {
+        numSongs = n;
     }
 }
