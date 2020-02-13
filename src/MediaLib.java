@@ -12,7 +12,7 @@ public class MediaLib {
         Song song4 = new Song("Billie Jean but the main melody never starts", 5);
         Song song5 = new Song("The Fortnite Theme", 5);
         Song song6 = new Song("Music that plays when unfortunate events happen", 5);
-        Song song7 = new Song("The Burger King", 5);
+        Song song7 = new Song("New Crispy Pretzel Chicken Fries At Burger King", 5);
 
         Books book1 = new Books();
         Movies movie1 = new Movies();
