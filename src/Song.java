@@ -5,12 +5,15 @@ public class Song {
     private double price;
     private boolean favorite;
     private int totalCost;
-    
+
+    public Song(String title, double price) {
+        this.title = title;
+        this.price = price;
+    }
     public Song(String title, int rating, double price) {
         this.title = title;
         this.rating = rating;
         this.price = price;
-    }
     public String getTitle() {
         return title;
     }
