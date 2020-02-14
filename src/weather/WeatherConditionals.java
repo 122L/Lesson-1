@@ -4,7 +4,7 @@ public class WeatherConditionals {
     public static String getWeatherAdvice(int temperature, String description){
         boolean windy = false;
 
-        if(description.equals("windy")) {
+        if(description.indexOf("windy") >= 0) {
             windy = true;
         }
     }
