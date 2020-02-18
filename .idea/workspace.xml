@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringTester.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StringTester.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/weather/StringTester.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/weather/ReadMe.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="147" selection-start-line="2" selection-start-column="147" selection-end-line="2" selection-end-column="147" />
             </state>
           </provider>
         </entry>
@@ -68,9 +68,9 @@
         <option value="$PROJECT_DIR$/src/ReadMe.md" />
         <option value="$PROJECT_DIR$/src/Song.java" />
         <option value="$PROJECT_DIR$/src/MediaLib.java" />
-        <option value="$PROJECT_DIR$/src/weather/StringTester.java" />
         <option value="$PROJECT_DIR$/src/weather/WeatherConditionals.java" />
         <option value="$PROJECT_DIR$/src/weather/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/weather/StringTester.java" />
       </list>
     </option>
   </component>
@@ -561,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/StringTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/weather/WeatherConditionals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -584,8 +577,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/weather/ReadMe.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" column="147" selection-start-line="2" selection-start-column="147" selection-end-line="2" selection-end-column="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weather/StringTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
     </entry>
