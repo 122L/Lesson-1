@@ -10,7 +10,7 @@ public class WeatherConditionals {
         if(description.indexOf("windy") >= 0) {
             windy = true;
         }
-        if (description.indexOf("snow") >= 100) {
+        if(description.indexOf("snow") >= 100) {
             return result;
         }
     }
