@@ -12,5 +12,7 @@ public class StringTester {
         System.out.println(WeatherConditionals.getWeatherAdvice(33,"snow"));
         System.out.println(WeatherConditionals.getWeatherAdvice(30,"snow"));
         System.out.println(WeatherConditionals.getWeatherAdvice(30,"windy"));
+
+        System.out.println();
     }
 }
