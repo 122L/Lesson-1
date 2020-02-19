@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SciFiName.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SciFiName.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sciFi/SciFiName.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="57" column="50" lean-forward="true" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+              <caret line="57" column="114" selection-start-line="57" selection-start-column="114" selection-end-line="57" selection-end-column="114" />
             </state>
           </provider>
         </entry>
@@ -39,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sciFi/ReadMe.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
+            <state relative-caret-position="68">
+              <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -73,8 +73,8 @@
         <option value="$PROJECT_DIR$/src/weather/StringTester.java" />
         <option value="$PROJECT_DIR$/src/sciFi/PetGenerator.java" />
         <option value="$PROJECT_DIR$/src/sciFi/UserInput.java" />
-        <option value="$PROJECT_DIR$/src/sciFi/ReadMe.md" />
         <option value="$PROJECT_DIR$/src/sciFi/SciFiName.java" />
+        <option value="$PROJECT_DIR$/src/sciFi/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -535,13 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sciFi/ReadMe.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sciFi/UserInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -559,7 +552,14 @@
     <entry file="file://$PROJECT_DIR$/src/sciFi/SciFiName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="57" column="50" lean-forward="true" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+          <caret line="57" column="114" selection-start-line="57" selection-start-column="114" selection-end-line="57" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sciFi/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
         </state>
       </provider>
     </entry>
