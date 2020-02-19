@@ -7,8 +7,13 @@ public class PetGenerator {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Pet Name Generator");
-        
-        System.out.println("Please enter your pets name >>> ");
+
+        System.out.println("Please enter your pet's name >>> ");
         String petName1 = input.nextLine();
+
+        System.out.println("Please enter your other pet's name >>> ");
+        String petName2 = input.nextLine();
+
+        
     }
 }
