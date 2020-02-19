@@ -38,6 +38,6 @@ public class SciFiName
 
         // generate a sciFi name
 
-        
+
     }
 }
