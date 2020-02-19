@@ -1,3 +1,4 @@
+package sciFi;
 
 /**
  * SciFiName gathers input from a user to generate a custom name that

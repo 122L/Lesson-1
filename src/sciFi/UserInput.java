@@ -1,3 +1,5 @@
+package sciFi;
+
 import java.util.Scanner;
 
 /**

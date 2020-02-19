@@ -14,6 +14,10 @@ public class PetGenerator {
         System.out.println("Please enter your other pet's name >>> ");
         String petName2 = input.nextLine();
 
-        int r = (int) (Math.random() * petName1.length()) + 1;
+        int r1 = (int) (Math.random() * petName1.length()) + 1;
+        petName1 = petName1.substring(r1, petName1.length());
+        petName2 = petName2.substring(r1, petName2.length());
+
+        System.out.println("Hello new pet " + petName1 + petName2);
     }
 }
