@@ -16,7 +16,7 @@ public class SciFiName
      * 
      * For best results, user lowercase letters and do not use spaces in your input
      */
-    public static void main()
+    public static void main(String[] args)
     {
         System.out.println("If you provide me some information I will provide a Science Fiction name for you.");
         System.out.println("Please have all responses  be at least three characters long.");
@@ -46,13 +46,14 @@ public class SciFiName
         school = school.substring(0, 3);
         String sciFiLastName = city + school;
 
-        int random1 = (int) Math.random() * relativeName1.length();
-        relativeName1 = relativeName2.substring(random1, relativeName1.length());
+        String randomRelative1;
+        String randomRelative2;
+        int random1 = (int) (Math.random() * relativeName1.length());
+        int random2 = (int) (Math.random() * relativeName2.length());
+        randomRelative1 = relativeName1.substring(random1, relativeName1.length());
+        randomRelative2 = relativeName2.substring(random2, relativeName2.length());
 
-        int random2 = (int) Math.random() * relativeName2.length();
-        relativeName2 = relativeName2.substring(random2, relativeName2.length());
-
-        String sciFiOrigin = relativeName1 + relativeName2;
+        String sciFiOrigin = (randomRelative1 + randomRelative2);
 
         System.out.println("Hello " + sciFiFirstName + " " + sciFiLastName + " of " + sciFiOrigin + ". Welcome!");
     }
