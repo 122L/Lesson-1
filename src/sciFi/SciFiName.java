@@ -38,6 +38,22 @@ public class SciFiName
 
         // generate a sciFi name
 
+        firstName = firstName.substring(0, 3);
+        lastName = lastName.substring(0, 2);
+        String sciFiFirstName = firstName + lastName;
 
+        city = city.substring(0, 2);
+        school = school.substring(0, 3);
+        String sciFiLastName = city + school;
+
+        int random1 = (int) Math.random() * relativeName1.length();
+        relativeName1 = relativeName2.substring(random1, relativeName1.length());
+
+        int random2 = (int) Math.random() * relativeName2.length();
+        relativeName2 = relativeName2.substring(random2, relativeName2.length());
+
+        String sciFiOrigin = relativeName1 + relativeName2;
+
+        System.out.println("Hello " + sciFiFirstName + " " + sciFiLastName + " of " + sciFiOrigin + ". Welcome!");
     }
 }
