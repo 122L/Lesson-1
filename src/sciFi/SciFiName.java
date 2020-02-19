@@ -37,6 +37,7 @@ public class SciFiName
         String relativeName2 = UserInput.getString();
 
         // generate a sciFi name
+
         
     }
 }
