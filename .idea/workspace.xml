@@ -132,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SciFiName">
+  <component name="RunManager" selected="Application.StringTester">
     <configuration name="MediaLib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MediaLib" />
       <module name="Lesson 1" />
@@ -220,9 +220,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringTester" />
         <item itemvalue="Application.SciFiName" />
         <item itemvalue="Application.PetGenerator" />
-        <item itemvalue="Application.StringTester" />
         <item itemvalue="Application.MediaLib" />
       </list>
     </recent_temporary>
