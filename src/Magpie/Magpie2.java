@@ -81,4 +81,3 @@ public class Magpie2 {
             return response;
         }
     }
-}
